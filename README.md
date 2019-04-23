@@ -5,10 +5,10 @@
 ### nathan [at] tnriverline.org
 
  1. Self Introduction - https://www.linkedin.com/in/nathan-hilbert-3006b85/
- 2. OSM Introduction - osm.org
+ 2. OSM Introduction - http://osm.org
     - https://www.youtube.com/watch?v=OF-JuFxhDT8 - Haiti Data Collection time lapse
     - https://www.geofabrik.de/data - OSM Data Download in Shapefile format
-  3. Tennessee RiverLine tnriverline.org
+  3. Tennessee RiverLine http://tnriverline.org
   4. Comparison
 
 ### Public Land
